@@ -1,16 +1,16 @@
-### Hello, I`m Hangil Ju.
+### Hello, I`m Hangil Ju.<br/>
 
-#I am a game programmer with experience developing and publishing in mobile game production environments.
-#I started game programming with Java Swing in 2017, became interested in it.
-#Currently, I am developing a game specifically using the Unity engine.
+#I am a game programmer with experience developing and publishing in mobile game production environments.<br/>
+#I started game programming with Java Swing in 2017, became interested in it.<br/>
+#Currently, I am developing a game specifically using the Unity engine.<br/>
 
-Programming Language: C#, C++, Typescript
-Cloud: PlayFab, Azure
-OS: Windows, Ubuntu Linux
-Game Engine: Unity, Unreal
+Programming Language: C#, C++, Typescript<br/>
+Cloud: PlayFab, Azure<br/>
+OS: Windows, Ubuntu Linux<br/>
+Game Engine: Unity, Unreal<br/>
 
-#I'm also interested in backend services.
-#Let`s keep in touch.
+#I'm also interested in backend services.<br/>
+#Let`s keep in touch.<br/>
 <!--
 **juhangil/juhangil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
