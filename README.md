@@ -11,6 +11,10 @@ Game Engine: Unity, Unreal<br/>
 
 I'm also interested in backend services.<br/>
 Let`s keep in touch.<br/>
+<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juhangil&layout=compact&theme=dark)<br/>
+![juhangil's GitHub stats](https://github-readme-stats.vercel.app/api?username=juhangil&show_icons=true&theme=dark)<br/>
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=ju6579&theme=dark)<br/>
 <!--
 **juhangil/juhangil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
